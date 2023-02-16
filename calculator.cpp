@@ -42,3 +42,4 @@ void Calculator::divide()
     if(num2 != 0)
     res = (float)num1 / (float)num2;
 }
+
