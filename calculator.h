@@ -14,4 +14,3 @@ private:
     char op;
     float res;
 };
-

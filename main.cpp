@@ -10,4 +10,3 @@ int main()
         calc.output();
     }
 }
-
